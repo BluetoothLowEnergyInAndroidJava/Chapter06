@@ -25,8 +25,8 @@ To see code from other chapters, see the [table of contents](https://github.com/
 
 ### Central
 
-![ScreenShot](Screenshots/Central%201.png)
-![ScreenShot](Screenshots/Central%202.png)
+![ScreenShot](Screenshots/Central%201.jpg)
+![ScreenShot](Screenshots/Central%202.jpg)
 
 ### Perpiheral
 
