@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExampleBLEPeripheral</string>
+    <string name="advertising_name_label">Advertising Name: </string>
+    <string name="bluetooth_on">Bluetooth On</string>
+    <string name="advertising">Advertising</string>
+    <string name="central_connected">Central Connected</string>
+</resources>

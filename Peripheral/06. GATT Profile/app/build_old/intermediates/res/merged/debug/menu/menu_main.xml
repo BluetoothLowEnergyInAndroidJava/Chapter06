@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_start_scan" android:title="@string/action_start_scan"
+        android:orderInCategory="100" app:showAsAction="always" />
+    <item android:id="@+id/action_stop_scan" android:title="@string/action_stop_scan"
+        android:orderInCategory="100" app:showAsAction="always" />
+    <item
+        android:id="@+id/scan_progress_item"
+        android:title="@string/scanning"
+        android:visible="true"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        app:actionLayout="@layout/scanner_progress"
+        android:layout_marginRight="@dimen/activity_horizontal_margin" />
+</menu>
+<!-- From: file:/Users/adonis/AndroidStudioProjects/BLE%20Book%20refactored/10.%20Flow%20Control/app/src/main/res/menu/menu_main.xml -->

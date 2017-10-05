@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ExampleBleConnect</string>
+    <string name="service_name">Ble Service</string>
+
+    <string name="action_start_scan">Scan</string>
+    <string name="action_stop_scan">Stop</string>
+    <string name="scanning">Scanning...</string>
+    <string name="peripheral_list_empty">No Peripherals Found</string>
+
+    <string name="action_connect">Connect</string>
+    <string name="action_disconnect">Disconnect</string>
+    <string name="connecting">Connecting...</string>
+    <string name="loading">Loading...</string>
+
+    <string name="service_type_primary">Primary</string>
+    <string name="service_type_secondary">Secondary</string>
+    <string name="gatt_profile_list_empty">No GATT Profile Discovered</string>
+    <string name="property_read">Readable</string>
+    <string name="property_write">Writable</string>
+    <string name="property_notify">Notifiable</string>
+    <string name="property_none">No Access</string>
+</resources>
